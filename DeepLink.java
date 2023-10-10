@@ -1,3 +1,4 @@
+<script>
 package com.apphelper.DeepLink;
 
 import android.content.Intent;
@@ -39,3 +40,4 @@ public final class DeepLink extends AndroidNonvisibleComponent
         }
     }
 }
+</script>
